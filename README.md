@@ -4,7 +4,7 @@
 - 🍻 我的个人博客：[stiles.cc](http://stiles.cc)
 - 📘 我收藏的文章，可从中发现优质内容：[Favorites / Raindrop.io](https://raindrop.io/stiles/-24376480)
 - 📧 我的 Newsletter，每周一篇：[架构指南](https://github.com/stilesTech/TechShare)
-- 📫 如何联系我: [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/stilesTech) [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ououStiles)
+- 📫 如何联系我：[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/stilesTech) [![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ououStiles)
 <h2>💻 Languages and Tools</h1>
 
 [![JAVA](https://img.shields.io/badge/-Java-00ADD8?style=flat-square&logo=java&logoColor=white)](https://img.shields.io/badge/-Java-00ADD8?style=flat-square&logo=java&logoColor=white)
